@@ -1,0 +1,52 @@
+body {
+    background-color: #E0E0E0; /* Grey background */
+}
+
+.card {
+    max-width: 500px; /* Increased max-width */
+    width: 100%;
+    background-color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 20px; /* Added padding for better spacing */
+}
+
+.submit-button {
+    height: 50px;
+    border-radius: 10px;
+    background-color: #45526e; /* New button color */
+    color: #fff; /* Button text color */
+}
+
+.submit-button:hover {
+    background-color: #5c6f89; /* Button color on hover */
+}
+
+.form-group {
+    margin-bottom: 20px; /* Increased margin */
+}
+
+.form-control {
+    height: 48px;
+    border: 2px solid #eee;
+    border-radius: 10px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #039BE5;
+}
+
+.agree-text {
+    font-size: 12px;
+}
+
+.terms {
+    font-size: 12px;
+    text-decoration: none;
+    color: #039BE5;
+}
+
+
+
+
